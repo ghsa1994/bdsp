@@ -1,8 +1,4 @@
 foo: foo version 21
 
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://132.122.45.154:8101/eureka/,http://132.122.45.154:8102/eureka/
 server:
   port: 8201
